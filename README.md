@@ -24,8 +24,7 @@ An intuitive web app designed to track and manage Girl Scout cookie sales. It fe
 
 ---
 
-## Stats & Activity
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kaleb-Fox&show_icons=true&theme=radical)  
+## Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaleb-Fox&layout=compact&theme=radical)
 
 ---
