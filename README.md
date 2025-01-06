@@ -1,16 +1,41 @@
-## Hi there 👋
+# Welcome to Kaleb Fox's GitHub! 👋
 
-<!--
-**Kaleb-Fox/Kaleb-Fox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+🌟 **Hi, I'm Kaleb Fox!**  
+🎓 Software Developer with experience in full-stack web development, specializing in JavaScript, React, Python, Node.js, and RESTful APIs. 
+🌍 Based in Charlotte NC, passionate about Gaming.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills & Technologies
+- Programming Languages: JavaScript, Python, HTML, CSS
+- Frameworks & Libraries: React, Node.js, Google-auth
+- Tools & Platforms: Git, Postman
+- Databases: MySQL
+
+---
+
+## Projects
+🔭 **Girl Scout Cookie Sales Tracker (https://github.com/Kaleb-Fox/Girl-Scout-Cookie-Sales-Tracker)**  
+Girl Scout Cookie Sales Tracker
+An intuitive web app designed to track and manage Girl Scout cookie sales. It features dynamic graphs and sortable tables to identify top sellers, along with stylish CSS design using Material-UI. Admin access is secured via Google Authentication, while the app includes additional pages showcasing cookie nutritional facts and scheduled sales locations.
+
+📂 Check out more projects in my [Repositorie](https://github.com/Kaleb-Fox?tab=repositories)!
+
+---
+
+## Stats & Activity
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kaleb-Fox&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaleb-Fox&layout=compact&theme=radical)
+
+---
+
+## Connect With Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/kaleb-fox/)
+- ✉️ [Email](kalebfox7@gmail.com)
+- 💻 [Dev.to](https://dev.to/kaleb-fox)  
+
+---
+
+*Thanks for visiting my GitHub profile! Feel free to explore my repositories and get in touch!*
+
