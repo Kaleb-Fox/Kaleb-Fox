@@ -20,7 +20,7 @@
 Girl Scout Cookie Sales Tracker
 An intuitive web app designed to track and manage Girl Scout cookie sales. It features dynamic graphs and sortable tables to identify top sellers, along with stylish CSS design using Material-UI. Admin access is secured via Google Authentication, while the app includes additional pages showcasing cookie nutritional facts and scheduled sales locations.
 
-📂 Check out more projects in my [Repositorie](https://github.com/Kaleb-Fox?tab=repositories)!
+📂 Check out more projects in my [Repositories](https://github.com/Kaleb-Fox?tab=repositories)!
 
 ---
 
