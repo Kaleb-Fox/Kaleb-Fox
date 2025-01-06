@@ -31,7 +31,7 @@ An intuitive web app designed to track and manage Girl Scout cookie sales. It fe
 
 ## Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/kaleb-fox/)
-- ✉️ [Email](kalebfox7@gmail.com)
+- ✉️ [Email](mailto:kalebfox7@gmail.com)
 - 💻 [Dev.to](https://dev.to/kaleb-fox)  
 
 ---
